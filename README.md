@@ -1,8 +1,14 @@
+## 2021 HTML Version
+
+In March 2021, [ClayLoam](https://twitter.com/ClayLoam) released a new HTML5 version of ChatChat! You can play that here:
+
+[Play chatchatgame.netlify.app/](https://chatchatgame.netlify.app/)
+
 # Chatchat
 
 ChatChat is a game about being a cat, and talking to other cats! The source code for my little 2012 multiplayer catroom game, co-created with Hayden Scott-Baron (@docky).
 
-Chatchat is a simple multiplayer chatroom game we made in 2012. You join a server, control a cat, and talk to other cats! It has a couple of little secrets to find, but it was intentionally made to be a pretty simple game. You can, for now, play this on Kongregate here: 
+Chatchat is a simple multiplayer chatroom game we made in 2012. You join a server, control a cat, and talk to other cats! It has a couple of little secrets to find, but it was intentionally made to be a pretty simple game. This old flash version is available on Kongregate here: 
 
 ![screenshot](screenshot.png "ChatChat Screenshot")
 
